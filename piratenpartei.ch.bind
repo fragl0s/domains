@@ -82,6 +82,8 @@ ne						IN MX		10 s034.cyon.net.
 ne						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 nw						IN MX		10 s034.cyon.net.
 nw						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
+os						IN MX		10 s034.cyon.net.
+os						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 ow						IN MX		10 s034.cyon.net.
 ow						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 sg						IN MX		10 s034.cyon.net.
@@ -132,6 +134,7 @@ ju						IN AAAA		2a01:ab20:0:4::43
 lu						IN AAAA		2a01:ab20:0:4::43
 ne						IN AAAA		2a01:ab20:0:4::43
 nw						IN AAAA		2a01:ab20:0:4::43
+os						IN AAAA		2a01:ab20:0:4::43
 ow						IN AAAA		2a01:ab20:0:4::43
 sh						IN AAAA		2a01:ab20:0:4::43
 sz						IN AAAA		2a01:ab20:0:4::43
@@ -152,6 +155,7 @@ bern.be						IN AAAA		2a01:ab20:0:4::43
 archive						IN AAAA		2a01:ab20:0:4::43
 mail						IN AAAA		2a01:ab20:0:4::43
 lists						IN AAAA		2a01:ab20:0:4::43
+ostschweiz					IN AAAA		2a01:ab20:0:4::43
 ppic						IN AAAA		2a01:ab20:0:4::43
 wahl19						IN AAAA		2a01:ab20:0:4::43
 wahl23						IN AAAA		2a01:ab20:0:4::43
@@ -182,6 +186,7 @@ ju						IN A		149.126.4.43
 lu						IN A		149.126.4.43
 ne						IN A		149.126.4.43
 nw						IN A		149.126.4.43
+os						IN A		149.126.4.43
 ow						IN A		149.126.4.43
 sh						IN A		149.126.4.43
 sz						IN A		149.126.4.43
@@ -202,6 +207,7 @@ bern.be						IN A		149.126.4.43
 archive						IN A		149.126.4.43
 mail						IN A		149.126.4.43
 lists						IN A		149.126.4.43
+ostschweiz					IN A		149.126.4.43
 ppic						IN A		149.126.4.43
 wahl19						IN A		149.126.4.43
 wahl23						IN A		149.126.4.43
