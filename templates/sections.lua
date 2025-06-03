@@ -31,14 +31,10 @@ function pps_sections(target)
   alias("vd", target)
   alias("vs", target)
   alias("zg", target)
+  alias("zh", target)
+  alias("stadt.zh", target)
+  alias("winterthur.zh", target)
   alias("zs", target)
-
-  aaaa("zh", "2001:1600:0:aaaa::80:2d")
-  aaaa("stadt.zh", "2001:1600:0:aaaa::80:2d")
-  aaaa("winterthur.zh", "2001:1600:0:aaaa::80:2d")
-  a("zh", "185.125.27.60")
-  a("stadt.zh", "185.125.27.60")
-  a("winterthur.zh", "185.125.27.60")
 
   -- MX records
   mx("ag", "s034.cyon.net", 10)
